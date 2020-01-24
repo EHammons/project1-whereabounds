@@ -19,7 +19,9 @@ Created for a coding class project, all group members have collaborated to creat
 Follow this link to view our group [presentation](https://docs.google.com/presentation/d/135A7quBTscWsDuqAyqq_Ttr0lWsFq7YlAnIDnlk06Rs/edit?usp=sharing).
 
 ## Screenshots
+### Concept
 ![Screenshot](./assets/images/Project_One.jpg)
+### Deployed Site
 ![Screenshot](./assets/images/deployed.png)
 
 ## Technologies
